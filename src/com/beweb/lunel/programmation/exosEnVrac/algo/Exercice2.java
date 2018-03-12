@@ -6,15 +6,18 @@
 package com.beweb.lunel.programmation.exosEnVrac.algo;
 
 /**
- * Une chaine de caractères vides n'est pas une chaine de caractères avec un espace dedans.
+ * Une chaine de caractères vides n'est pas une chaine de caractères avec un
+ * espace dedans.
+ *
  * @author alex
  */
 public class Exercice2 {
- 
-    public static void launch(){
+
+    public static void launch() {
         //initialisation des variables : déclaration + affectaction
-    int compteur = 0;
-    String phrase = "";
+        int compteur = 0;
+        String phrase = "";
+
         System.out.println(phrase);
-}
+    }
 }
