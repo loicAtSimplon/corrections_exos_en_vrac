@@ -3,25 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.beweb.lunel.programmation.exosEnVrac;
-
-import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice8;
+package correction_exo_en_vrac;
 
 /**
  *
- * @author loic
+ * @author amchi
  */
-public class AlgoMain {
+public class Correction_Exo_En_Vrac {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        Exercice1.launch();
-//        Exercice2.launch();
-//        Exercice3.launch();
-        Exercice8.launch();
-        
+        // TODO code application logic here
     }
     
 }
