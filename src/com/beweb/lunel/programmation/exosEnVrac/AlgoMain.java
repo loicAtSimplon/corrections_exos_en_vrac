@@ -5,6 +5,7 @@
  */
 package com.beweb.lunel.programmation.exosEnVrac;
 
+import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice5;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice1;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice2;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice3;
